@@ -1,0 +1,19 @@
+.img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+body {
+  /* background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147)); */
+  /* background-color: #0093e9; */
+  background: linear-gradient(to right, #0093e9 0%, #80d0c7 100%);
+  color: white;
+}
+
+.link {
+  color: white;
+}
+
+.info {
+  padding: 0%;
+}
